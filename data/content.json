@@ -8,12 +8,20 @@
       },
       "home": {
         "header": "Getting started with React and Flux",
+<<<<<<< HEAD
         "text": "no, why ?",
+=======
+        "text": "T",
+>>>>>>> 99395bd1a1240ad6702feb3f81a68efa395993f6
         "goUp": "Go up"
       },
       "about": {
         "header": "About the solution",
+<<<<<<< HEAD
         "text": "For these two transformations Babel presets are being used.",
+=======
+        "text": "T",
+>>>>>>> 99395bd1a1240ad6702feb3f81a68efa395993f6
         "goUp": "Go up"
       }
     }
